@@ -12,3 +12,11 @@
 -VS Code, IntelliJ IDEA
 
 ## About Me
+
+* Sociable
+* Excellent teamwork
+* Responsible
+* Punctual
+* Responsiveness
+* Tolerance, respect for people
+* Ability to quickly find a way out of stressful situations
