@@ -13,12 +13,12 @@
 
 ## About Me
 
-1 Sociable
-1 Excellent teamwork
-1 Responsible
-1 Punctual
-1 Tolerance, respect for people
-1 Ability to quickly find a way out of stressful situations
+1. Sociable
+1. Excellent teamwork
+1. Responsible
+1. Punctual
+1. Tolerance, respect for people
+1. Ability to quickly find a way out of stressful situations
 
 I like to do web development. I think this profession will give me an opportunity for professional growth.
 
