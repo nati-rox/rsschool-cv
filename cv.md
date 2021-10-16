@@ -28,6 +28,6 @@ I know that my desire to learn new things will help me to go this way and become
 - HTML Academy
 
 ## Languages:
-- English - Elementary
 - Russian - Native
+- English - Elementary
 - Ukrainian - Elementary
