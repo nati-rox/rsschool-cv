@@ -2,7 +2,7 @@
 
 ## Contact information:
 - E-mail: budyakova46@mail.ru
-- Telegram: @nati_rox
+- Telegram: [@nati_rox](https://t.me/nati_rox)
 
 ## Skills:
 - HTML
