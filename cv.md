@@ -1,6 +1,6 @@
 # Budiakova Natalia
 
-![](main\gh-pages\1.png)
+![1](main\gh-pages\1.png)
 ## Contact information:
 - E-mail: budyakova46@mail.ru
 - Telegram: @nati_rox
