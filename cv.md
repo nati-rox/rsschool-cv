@@ -1,5 +1,6 @@
 # Budiakova Natalia
 
+![alt - текст](C:\Users\n.budyakova\Documents\Обучение\q99960zx.beget.tech\public_html\IMG\11.jpg)
 ## Contact information:
 - E-mail: budyakova46@mail.ru
 - Telegram: @nati_rox
