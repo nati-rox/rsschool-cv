@@ -30,7 +30,7 @@ I know that my desire to learn new things will help me to go this way and become
 
 ## Education
 
-- 21 School Kazan
+- 21 School (Kazan)
 - HTML Academy
 - JavaScript (Marafon by Artem Dimitrov)
 
