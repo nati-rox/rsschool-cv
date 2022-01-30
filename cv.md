@@ -1,10 +1,14 @@
 # Budiakova Natalia
 
 ## Contact information:
-- E-mail: budyakova46@mail.ru
 - Telegram: [@nati_rox](https://t.me/nati_rox)
+- Phone, WhatsApp: +7(999)608-0668
+- E-mail: budyakova46@mail.ru
 
 ## Skills:
+- С
+- JavaScript
+- Python
 - HTML
 - CSS
 - Git, Gitlab
@@ -25,7 +29,10 @@ I like to do web development. I think this profession will give me an opportunit
 I know that my desire to learn new things will help me to go this way and become an experienced developer.
 
 ## Education
+
+- 21 School Kazan
 - HTML Academy
+- JavaScript (Marafon by Artem Dimitrov)
 
 ## Languages:
 - Russian - Native
